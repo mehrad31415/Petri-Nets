@@ -22,3 +22,4 @@ The aim of this project is to learn about concurrency issues by performing inves
 17. A Petri Net illustrating a solution to the Dining Philosophers problem.
 18. A Petri Net illustrating Dining Philosophers after several steps have been executed.
 
+For displaying and modifying the petri-net models please do so in the PIPE tool downloaded from: https://sarahtattersall.github.io/PIPE/ (if you have MacOS). Should you have windows you can use CPN tools which is much easier (and your figures will be much nicer than mine!)
